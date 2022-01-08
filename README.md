@@ -1,0 +1,1 @@
+# openbugbounty-domains
